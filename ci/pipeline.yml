@@ -4,7 +4,7 @@ resources:
   type: git
   source:
     uri: https://github.com/bstarke/attendee-service
-    branch: smoke_tests
+    branch: master
 - name: deploy-attendee-service
   type: cf
   source:
