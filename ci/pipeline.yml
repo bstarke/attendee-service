@@ -3,7 +3,7 @@ resources:
 - name: attendee-service-source
   type: git
   source:
-    uri: https://github.com/pivotal-enablement/attendee-service
+    uri: https://github.com/bstarke/attendee-service
     branch: smoke_tests
 - name: deploy-attendee-service
   type: cf
